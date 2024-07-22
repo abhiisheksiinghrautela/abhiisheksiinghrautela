@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh Rautela</h1>
-<h3 align="center">👋 Hello, I'm Abhishek Singh Rautela, a versatile professional with expertise in Web Development, UI/UX design, technical content writing and C++.</h3>
+<h1 align="left">Hi 👋, I'm Abhishek Singh Rautela</h1>
+<h3 align="left">👋 Hello, I'm Abhishek Singh Rautela, a versatile professional with expertise in Web Development, UI/UX design, technical content writing and C++.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
