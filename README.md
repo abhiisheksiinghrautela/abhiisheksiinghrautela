@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Abhishek Singh Rautela</h1>
-<h3 align="left">👋 Hello, I'm Abhishek Singh Rautela, a versatile professional with expertise in Web Development, UI/UX design, technical content writing, JAVA, Python and AI/ML.</h3>
+<h3 align="left">👋 Hello, I'm Abhishek Singh Rautela, a versatile professional with expertise in App Development, UI/UX design, technical content writing, C, C++, Flutter, JAVA, Kotlin, Javascript, Typescript, Python and AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiisheksiinghrautela&label=Profile%20views&color=0e75b6&style=flat" alt="abhiisheksiinghrautela" /> </p>
 
